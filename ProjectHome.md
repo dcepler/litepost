@@ -1,0 +1,1 @@
+LitePost is a lightweight CFML-based blog application built in various ColdFusion frameworks, including Fusebox, Mach-II, Model-Glue, and newly added ColdBox. All version incorporate ColdSpring as an infrastructure for component management.
