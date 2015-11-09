@@ -1,5 +1,5 @@
 .project
-/.setting/*
+/.settings/*
 settings.xml
 /fusebox/parsed/*
 /fuseboxCS/parsed/*
