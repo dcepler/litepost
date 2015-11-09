@@ -43,11 +43,11 @@
 	
 	<cfset APPLICATION.settings.blog = structNew() />
 	<cfset APPLICATION.settings.blog.name = 'LitePost - Fusebox/ColdSpring Edition' />
-	<cfset APPLICATION.settings.blog.url = 'http://192.168.3.100/fuseboxCS/' />
+	<cfset APPLICATION.settings.blog.url = 'http://litepost.local/fuseboxCS/' />
 	<cfset APPLICATION.settings.blog.description = 'The FuseBox 5.1 / ColdSpring Edition of LitePost.' />
 	<cfset APPLICATION.settings.blog.language = 'en_US' />
-	<cfset APPLICATION.settings.blog.email.author = 'adrocknaphobia@gmail.com' />
-	<cfset APPLICATION.settings.blog.email.webmaster = 'adrocknaphobia@gmail.com' />
+	<cfset APPLICATION.settings.blog.email.author = 'fuseboxcs@example.com' />
+	<cfset APPLICATION.settings.blog.email.webmaster = 'fuseboxcs@example.com' />
 	<cfset APPLICATION.settings.blog.numOfEntries = 20 />
 	
 

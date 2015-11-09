@@ -1,0 +1,5 @@
+.project
+.setting/*
+settings.xml
+fusebox/parsed/*
+fuseboxCS/parsed/*
